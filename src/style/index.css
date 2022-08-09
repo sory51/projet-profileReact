@@ -1,0 +1,20 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 12px;
+    margin: 15px auto;
+    
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: left;
+    justify-content: center;
+    margin: 70px 20px 20px;
+    line-height: normal;
+}
+.cont-1{
+    margin-right: 35px;
+    padding: 30px;
+}
