@@ -1,9 +1,10 @@
 import React from 'react';
+import ImP from './shepherd.jpg';
 
 const ProfilePhoto = () => {
     return (
         <div>
-            <img src='./shepherd.jpg' alt='photo profile'/>
+            <img src={ImP} alt='photo profile'/>
         </div>
     );
 };
